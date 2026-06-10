@@ -1,2 +1,9 @@
 To run the Code -->
 unicorn main:app --reload
+
+
+To push to updates github -->
+Code
+→ git add .
+→ git commit -m "message"
+→ git push
